@@ -1,0 +1,16 @@
+
+.main-table{
+ width: 100%;
+ border: 20px solid rgb(194, 22, 22);
+}
+
+.black{
+    background-color: black;
+    width: 100px;
+    height: 150px;
+}
+.white{
+    background-color: white;
+    width: 100px;
+    height: 150px;
+}
