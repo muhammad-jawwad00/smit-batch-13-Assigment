@@ -1,0 +1,23 @@
+body{
+ background-color: #000000;
+}
+
+.fieldset{
+    width: 100px;
+    margin: 103px;
+    height: 230px;
+    padding: 100px; 
+    border-radius: 20px;
+    border-color: greenyellow;
+}
+.flegend{
+    color: green;
+}
+.labelfor{
+    color: aliceblue;
+}
+#reviewpage{
+    color: aliceblue;
+    text-align: center;
+     
+}
